@@ -1,0 +1,119 @@
+body{
+    margin: auto;
+    background-color:#c4e6f4;
+}
+a{
+    text-decoration: none;
+}
+#header{
+    height:60px;
+    width:100%;
+    /* border:2px solid red; */
+    background-color:#f58d27;
+}
+#icon
+{
+    float:left;
+    margin-left:1%;
+}
+#social
+{
+    float:right;
+    margin-right:1%;
+    margin-top:1%;
+    
+}
+.slogo
+{
+    height:41px;
+    width:41px;
+    border-radius: 20px;
+}
+.contentdiv{
+   
+    height:700px;
+    width:77%;
+    margin-left: 2%;
+    /* border:2px solid green; */
+    float:left;
+    
+}
+.imgdiv
+{
+    height:300px;
+    width:45%;
+    float:left;
+    border:7px groove grey;
+    margin-top: 5%;
+}
+.imgdiv>img{
+    height:300px;
+    width:100%;
+}
+.content{
+    height:400px;
+    width:115%;
+    float:left;
+    /* border:2px solid blue; */
+    margin-top: -76%;
+    margin-left: 107%;
+
+}
+.featurecontainer
+{
+    width:100%;
+    display: inline-block;
+
+}
+.checked
+{
+    color: red;
+}
+.feature{
+    float:left;
+    margin-left:2%;
+}
+.feticon
+{
+    height:50px;
+    width:50px;
+    margin-left:2%;
+}
+h2{
+    color: green;
+    font-size: 30px;
+}
+.btn
+{
+    height:50px;
+    width:200px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(152, 77, 237);
+}
+
+#footer{
+    clear:both;
+    height:112px;
+    width:100%;
+    /* border:2px dotted maroon; */
+    background-color: #f58d27;
+    margin-top: 6%;
+}
+
+
+#footText{
+    text-align:center;
+}
+.footDiv{
+    height:67px;
+    width:33%;
+    float:left;
+    border-right:2px solid black;
+    text-align: center;
+
+}
+
+.noBorder{
+    border:none;
+}
